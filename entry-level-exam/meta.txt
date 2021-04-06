@@ -1,0 +1,3 @@
+examKey=48
+createdAt=2/27/2021
+candidateEmail=galshamir8@gmail.com
